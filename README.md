@@ -1,0 +1,3 @@
+# Design-Patterns
+design a simple Institute Management System
+Institute Management System is designed to automate the management process of an institute from student admission to examination management, from course management to schedule management, from human resource employment to salary management. By using the latest technology, this Institute Management System automates an institute’s operations such Student Admission Management, Fee Management, Attendance Management, Examination Management, Human Resource Management, Time Table Management, Salary Management and Records & Profiles Management.
